@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="activity2_name">Items</string>
+    <string name="cheese">Cheese</string>
+    <string name="rice">Rice</string>
+    <string name="banana">Banana</string>
+    <string name="bread">Bread</string>
+    <string name="oranges">Oranges</string>
+    <string name="fruit_juice">Fruit Juice</string>
+    <string name="dog_food">Dog Food</string>
+    <string name="detergent_powder">Detergent Powder</string>
+    <string name="sugar">Sugar</string>
+    <string name="soap">Soap</string>
+    <string name="add_item">Add Item</string>
+</resources>
